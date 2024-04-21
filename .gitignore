@@ -2,3 +2,4 @@
 SavedModels/
 data/
 predicted_data.csv
+*.bib
